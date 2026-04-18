@@ -1,0 +1,17 @@
+# Data files (large)
+data/
+filtered_gene_bc_matrices/
+*.h5ad
+*.h5
+
+# R
+.RData
+.Rhistory
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
